@@ -8,6 +8,7 @@ I'm a **Digital Project Manager** at Mashroom Pte Ltd. I am a *self-taught UI/UX
 * Java & Spring Framework
 * Artificial Intelligence / Machine Learning
 * Data Science 
+* Git (yes, really!)
 
 ### 💬 Ask me about
 * UI/UX Design & Prototyping
