@@ -10,7 +10,8 @@ I'm a **Digital Project Manager** at Mashroom Pte Ltd. I am a *self-taught UI/UX
 * Data Science 
 
 ### 💬 Ask me about
-
+* UI/UX Design & Prototyping
+* Powerlifting 🏋️‍😅
 
 ###  📭 How to reach me: 
 I'm currently **not available** for freelance work. 
