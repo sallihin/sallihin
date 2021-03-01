@@ -4,8 +4,7 @@ I'm a **Digital Project Manager** at Mashroom Pte Ltd. I am a *self-taught UI/UX
 
 ### 🌱 I’m currently learning
 * Javascript (ES6)
-* SQL Database
-* Java & Spring Framework
+* Java Spring Framework
 * Artificial Intelligence / Machine Learning
 * Data Science 
 
