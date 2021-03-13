@@ -11,12 +11,13 @@ I'm a **Digital Project Manager** at Mashroom Pte Ltd. I am a *self-taught UI/UX
 ### 💬 Ask me about
 * UI/UX Design & Prototyping
 * Powerlifting 🏋️‍ 😅
-* Codewars! !(codewars)[https://www.codewars.com/users/sallihin/badges/small]
 
 ###  📭 How to reach me: 
 I'm currently **not available** for freelance work. 
 
 Reach out to me via email at [sallihin@gmail.com](mailto:sallihin@gmail.com) or feel free to [drop me a text via WhatsApp](https://api.whatsapp.com/send?phone=6594246032&text=Hi!%20Your%20portfolio%20is%20awesome%20and%20I%27d%20love%20to%20get%20in%20touch%20%2F%20be%20friends!).
+
+![Codewars](https://www.codewars.com/users/sallihin/badges/large)
 
 
 <!--
