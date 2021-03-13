@@ -11,6 +11,7 @@ I'm a **Digital Project Manager** at Mashroom Pte Ltd. I am a *self-taught UI/UX
 ### 💬 Ask me about
 * UI/UX Design & Prototyping
 * Powerlifting 🏋️‍ 😅
+* Codewars! !(codewars)[https://www.codewars.com/users/sallihin/badges/small]
 
 ###  📭 How to reach me: 
 I'm currently **not available** for freelance work. 
