@@ -3,9 +3,10 @@
 I'm a **Digital Project Manager** at This Is Tommy. I am a *self-taught UI/UX* Designer & Full-Stack(*Overflow*) Developer. I'm currently back in school learning Artificial Intelligence / Machine Learning. 
 
 ### 🌱 I’m currently learning
-* Java Spring Framework
 * Artificial Intelligence / Machine Learning
 * Data Science 
+* IoT Application
+* Natural Language Processing 
 
 ### 💬 Ask me about
 * UI/UX Design & Prototyping
