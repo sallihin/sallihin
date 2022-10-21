@@ -4,8 +4,6 @@ I'm a **Digital Project Manager** at This Is Tommy. I am a *self-taught UI/UX* D
 
 ### 🌱 I’m currently learning
 * Artificial Intelligence / Machine Learning
-* Data Science 
-* IoT Application
 * Natural Language Processing 
 
 ### 💬 Ask me about
