@@ -17,7 +17,7 @@ I'm currently **not available** for freelance work.
 
 Reach out to me via email at [sallihin@gmail.com](mailto:sallihin@gmail.com) or feel free to [drop me a text via WhatsApp](https://api.whatsapp.com/send?phone=6594246032&text=Hi!%20Your%20portfolio%20is%20awesome%20and%20I%27d%20love%20to%20get%20in%20touch%20%2F%20be%20friends!).
 
-# I like to sharpen my coding skills here!
+#### I like to sharpen my coding skills here!
 ![Codewars](https://www.codewars.com/users/sallihin/badges/large)
 
 
