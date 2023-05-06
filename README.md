@@ -1,13 +1,15 @@
 # Hi there 👋
 
-I'm a **Digital Project Manager** at This Is Tommy. I am a *self-taught UI/UX* Designer & Full-Stack(*Overflow*) Developer. I'm currently back in school learning Artificial Intelligence / Machine Learning. 
+I'm a **Senior Producer** at This Is Tommy. I am a *self-taught* UI/UX Designer & Full-Stack(*Overflow*) Developer. I'm passionate about learning Artificial Intelligence / Machine Learning. 
 
 ### 🌱 I’m currently learning
-* Artificial Intelligence / Machine Learning
+* Artificial Intelligence
+* Machine Learning / Deep Learning
 * Natural Language Processing 
 
 ### 💬 Ask me about
 * UI/UX Design & Prototyping
+* Artificial Intelligence
 * Powerlifting 🏋️‍ 😅
 
 ###  📭 How to reach me: 
