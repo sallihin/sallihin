@@ -3,11 +3,12 @@
 I'm a **Digital Producer** at  TBWA\Media Arts Lab. I am a *self-taught* UI/UX Designer & Full-Stack(*Overflow*) Developer. 
 
 ### 🌱 I’m currently learning
-* Machine Learning / Deep Learning 
+* Cyber Security / Digital Forensics
 
 ### 💬 Ask me about
 * UI/UX Design & Prototyping
-* Artificial Intelligence
+* Web Application Development
+* AI / Machine Learning
 * Powerlifting 🏋️‍ 😅
 
 ###  📭 How to reach me: 
